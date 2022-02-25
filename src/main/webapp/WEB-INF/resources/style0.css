@@ -1,0 +1,49 @@
+body {
+  background-image: url(weather.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.lastblock {
+  display: flex;
+  align-items: flex-end;
+}
+
+.search {
+  margin-top: 5px;
+  margin-right: 30px;
+}
+
+.block1 {
+  margin: 100px 400px 100px 400px;
+  background-color: beige;
+  border: 8px double black;
+  padding: 10px;
+  font-family: sans-serif;
+  border-radius: 20px;
+}
+
+.checkme {
+  text-align: center;
+  margin: 15px 30px 10px 30px;
+}
+
+.textblock {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+}
+
+.form {
+  margin-top: 5px;
+}
+
+.feedback {
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.center{
+  text-align: center;
+}
